@@ -99,8 +99,8 @@
             <button class="button add" id="addNoteButton">Добавить заметку</button>
             <button class="button delete" id="deleteFirstButton">Удалить первую</button>
             <button class="button delete" id="deleteLastButton">Удалить последнюю</button>
-            <button class="button highlight" id="highlightEvenButton">Выделить четные</button>
-            <button class="button highlight" id="highlightOddButton">Выделить нечетные</button>
+            <button class="button highlight" id="highlightEvenButton">Выделить нечетные</button>
+            <button class="button highlight" id="highlightOddButton">Выделить четные</button>
             <button class="button complete" id="completeLastButton">Завершить последнюю</button>
         </div>
         <ul id="noteList"></ul>
